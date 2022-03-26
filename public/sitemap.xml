@@ -2,8 +2,6 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/</loc><lastmod>2022-03-15T21:45:12-06:00</lastmod><priority>1</priority></url><url>
-            <loc>http://example.org/teaching/philosophy/</loc><lastmod>2022-03-15T21:45:12-06:00</lastmod></url><url>
-            <loc>http://example.org/teaching/</loc><lastmod>2022-03-15T21:45:12-06:00</lastmod></url><url>
-            <loc>http://example.org/categories/</loc></url><url>
-            <loc>http://example.org/tags/</loc></url></urlset>
+            <loc>https://bdsmith147.github.io/everydayquantummechanic/</loc><priority>0</priority></url><url>
+            <loc>https://bdsmith147.github.io/everydayquantummechanic/categories/</loc></url><url>
+            <loc>https://bdsmith147.github.io/everydayquantummechanic/tags/</loc></url></urlset>
