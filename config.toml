@@ -69,7 +69,7 @@ theme = 'LoveIt'
     # LoveIt NEW | 0.2.0 Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = "/test.png"
+      logo = "./logo.png"
       # title name
       name = "The Everyday Quantum Mechanic"
       # you can add extra information before the name (HTML format is supported), such as icons
@@ -106,7 +106,7 @@ theme = 'LoveIt'
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar_personal.png"
+      avatarURL = "./images/avatar_personal.png"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page
@@ -124,8 +124,8 @@ theme = 'LoveIt'
 
 # Social config about the author
   [params.social]
-    GitHub = "https://github.com/bdsmith147"
-    Linkedin = "https://www.linkedin.com/in/bdsmith101/"
+    GitHub = "bdsmith147"
+    Linkedin = "bdsmith101"
     Twitter = ""
     Facebook = ""
     Youtubelegacy = ""
@@ -149,7 +149,7 @@ theme = 'LoveIt'
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "About"
-    url = "/about/"
+    url = "about/main"
     # title will be shown when you hover on this menu link
     title = "About"
     weight = 1
@@ -158,7 +158,7 @@ theme = 'LoveIt'
     pre = ""
     post = ""
     name = "Research"
-    url = "/research/"
+    url = "research"
     title = "Research"
     weight = 3
   [[menu.main]]
@@ -166,7 +166,7 @@ theme = 'LoveIt'
     pre = ""
     post = ""
     name = "Teaching"
-    url = "/teaching/"
+    url = "teaching/main"
     title = "Teaching"
     weight = 2
   [[menu.main]]
@@ -174,7 +174,7 @@ theme = 'LoveIt'
     pre = ""
     post = ""
     name = "publications"
-    url = "/research/publications"
+    url = "research/publications"
     title = ""
     parent = "research"
     weight = 1
@@ -183,7 +183,7 @@ theme = 'LoveIt'
     pre = ""
     post = ""
     name = "Posts"
-    url = "/posts"
+    url = "posts"
     title = "Posts"
     parent = ""
     weight = 4

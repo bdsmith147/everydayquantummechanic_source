@@ -1,19 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teachings on The Everyday Quantum Mechanic</title>
-    <link>http://example.org/teaching/</link>
-    <description>Recent content in Teachings on The Everyday Quantum Mechanic</description>
+    <title>Teaching on The Everyday Quantum Mechanic</title>
+    <link>https://bdsmith147.github.io/everydayquantummechanic/teaching/</link>
+    <description>Recent content in Teaching on The Everyday Quantum Mechanic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Mar 2022 21:45:12 -0600</lastBuildDate><atom:link href="http://example.org/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Mar 2022 21:40:25 -0600</lastBuildDate><atom:link href="https://bdsmith147.github.io/everydayquantummechanic/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Philosophy</title>
-      <link>http://example.org/teaching/philosophy/</link>
-      <pubDate>Tue, 15 Mar 2022 21:45:12 -0600</pubDate>
+      <link>https://bdsmith147.github.io/everydayquantummechanic/teaching/philosophy/</link>
+      <pubDate>Sat, 26 Mar 2022 16:45:45 -0600</pubDate>
       
-      <guid>http://example.org/teaching/philosophy/</guid>
-      <description></description>
+      <guid>https://bdsmith147.github.io/everydayquantummechanic/teaching/philosophy/</guid>
+      <description>Statement of Teaching Philosophy Introduction: The Necessity of Belief In conversation, when people learn I’m a physicist they often reply along the lines of, “Oh, I’m not smart enough to do that.” This reply reveals the common belief in the “fixed mindset”: that someone’s success and ability to learn is a product of their innate talents, and that these aptitudes cannot be changed1. In contrast, I learned from my mother at a young age the simple phrase, “If you believe you can, or if you believe you can’t, you’re right”2.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://bdsmith147.github.io/everydayquantummechanic/teaching/landing/</link>
+      <pubDate>Sat, 26 Mar 2022 16:21:48 -0600</pubDate>
+      
+      <guid>https://bdsmith147.github.io/everydayquantummechanic/teaching/landing/</guid>
+      <description>Teaching Mission Statement: Inspire learners to expand their potential. Encourage an attitude of growth and a discipline of intentional practice.
+  Statement of Teaching Philosophy 
+ Mission Statement</description>
+    </item>
+    
+    <item>
+      <title>Mission</title>
+      <link>https://bdsmith147.github.io/everydayquantummechanic/teaching/mission/</link>
+      <pubDate>Sat, 26 Mar 2022 16:14:40 -0600</pubDate>
+      
+      <guid>https://bdsmith147.github.io/everydayquantummechanic/teaching/mission/</guid>
+      <description>This is a test heading Just getting started
+Lorem ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
   </channel>

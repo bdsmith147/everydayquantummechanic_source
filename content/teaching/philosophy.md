@@ -1,10 +1,7 @@
 ---
 title: "Philosophy"
 date: 2022-03-15T21:45:12-06:00
-draft: true
-menu: 
-    main.teaching:
-        name: "Philosophy"
+draft: false
 ---
 
 # This is a test heading (again)

@@ -1,6 +1,6 @@
 ---
-title: "Publications"
-date: 2022-03-21T21:11:55-06:00
+title: "Mission"
+date: 2022-03-26T16:14:40-06:00
 draft: false
 ---
 
