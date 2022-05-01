@@ -28,3 +28,11 @@ Between January to July 2016, I worked as an adjunct principle-instructor at [Br
 * **PHYS 295**: (Freeman)[*Fall 2017*]
 * **PHYS 292**: (LeBlanc)[*Fall 2018*]
 
+### Student Feedback
+
+[![Like](like.jpg)]({{< ref "teaching/feedback" >}})
+
+<!--
+[{{< image src="like.jpg" alt="Feedback" height=255 class="alignright" >}}]({{< ref "teaching/feedback" >}})
+-->
+These are selected, anonymous student feedback comments I've received about my teaching: ...[Continue reading]({{< ref "teaching/feedback" >}})
