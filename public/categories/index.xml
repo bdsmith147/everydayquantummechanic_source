@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - The Everyday Quantum Mechanic</title>
-        <link>https://bdsmith147.github.io/everydayquantummechanic/categories/</link>
-        <description>Categories - Category - The Everyday Quantum Mechanic</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://bdsmith147.github.io/everydayquantummechanic/categories/" rel="self" type="application/rss+xml" /></channel>
+        <title>Categories - Category - Benjamin D. Smith · The Everyday Quantum Mechanic</title>
+        <link>https://www.everydayquantummechanic.com/categories/</link>
+        <description>Categories - Category - Benjamin D. Smith · The Everyday Quantum Mechanic</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://www.everydayquantummechanic.com/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>

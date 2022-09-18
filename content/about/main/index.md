@@ -14,8 +14,6 @@ I first learned to appreciate science from my parents. My mother taught me to as
 
 Currently, I am a PhD candidate at the University of Alberta. I am proud to work and study under the supervision of [Professor Lindsay J. LeBlanc](https://sites.google.com/ualberta.ca/ultracold) at the University of Alberta in Edmonton, Alberta, Canada.
 
-Click [here](output.pdf) to access my CV.
-
 
 
 ## Family
