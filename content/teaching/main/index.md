@@ -15,8 +15,8 @@ ___
 -->
 
 ### Statement of Teaching Philosophy
-
-> ###### Introduction: The Necessity of Belief
+{{< admonition type=quote title="This is a tip" open=false >}}
+###### Introduction: The Necessity of Belief
 {{< figure src="possible.jpg" width="400">}}
 In conversation, when people learn I’m a physicist they often reply along the lines of, “Oh, I’m not smart enough to do that.” This reply reveals the common belief in the “fixed mindset”: that someone’s success and ability to learn is a product of their innate talents, and that these aptitudes cannot be changed[^Dweck]. In contrast, I learned from my mother at a young age the simple phrase, “If you believe you can, or if you believe you can’t, you’re right”[^Ford]. In my learning practice, I’ve chosen to believe that I can learn anything I desire. I don’t see myself as having inherently superior cognitive abilities compared to anyone else; rather I see my success as a direct product of personal effort and a “growth mindset.” Because of the growth I have seen in myself, I am convinced that every student has the potential to learn any subject they desire and work at. This strong belief in students’ potential is foundational to my motivation and to my methods for teaching and learning.
 
@@ -46,7 +46,7 @@ Occasionally the people I talk with tell me about their experiences in high scho
 
 
 For the process of learning to be successful, it must be founded upon a relationship of trust between students and teachers[^Bain]. Where practical, I learn my students’ names as quickly as possible. I also employ formative and summative assessments with grading practices that are encouraging and redemptive, not punitive. Trust is fostered as I treat students as individuals - with respect, concern, and interest; I recognize that, like them, I am also learning and growing. At the time of my retirement, I will primarily know that I have been successful as a teacher if my students knew that I cared about them, believed in them, and wanted them to grow and succeed, not just in physics but in all areas of their lives. 
-
+{{< /admonition >}}
 
 [^Bain]: Bain, K. (2004). What the best college teachers do. Harvard University Press.
 
